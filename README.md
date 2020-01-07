@@ -1,5 +1,7 @@
 # Congreso Científico
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Spanish:
 
 Este proyecto consiste en un prototipo de página de **Congreso Científico**.
