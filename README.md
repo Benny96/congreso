@@ -17,7 +17,7 @@ ____
 
 ## English:
 
-This project consists on a prototype of a webpage for a **Scientific Congress**.
+This project consists on a prototype of a webpage of a **Scientific Congress**.
 
 The project was created by: <br>
 
